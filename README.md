@@ -1,4 +1,4 @@
-This projrct interface design from <a href='https://www.facebook.com/profile.php?id=100073291700774'>Makkun</a>
+ design from <a href='https://www.facebook.com/profile.php?id=100073291700774'>Makkun</a>
 
 ## Getting Started
 
